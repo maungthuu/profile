@@ -324,14 +324,14 @@
 		.select-wrapper:before {
 			color: #2980b9;
 			display: block;
-			height: 2.75em;
-			line-height: 2.75em;
+			height: 3em;
+			line-height: 3em;
 			pointer-events: none;
 			position: absolute;
 			right: 0;
 			text-align: center;
 			top: 0;
-			width: 2.75em;
+			width: 3em;
 		}
 
 		.select-wrapper select::-ms-expand {
@@ -342,7 +342,7 @@
 	input[type="password"],
 	input[type="email"],
 	select {
-		height: 2.75em;
+		height: 3em;
 	}
 
 	textarea {
@@ -519,14 +519,14 @@
 					text-decoration: none;
 					position: relative;
 					display: block;
-					width: 2.5em;
-					height: 2.5em;
+					width: 3em;
+					height: 3em;
 					border-radius: 100%;
 					border: solid 1px #3498db;
-					line-height: 2.5em;
+					line-height: 3em;
 					overflow: hidden;
 					text-align: center;
-					text-indent: 2.5em;
+					text-indent: 3em;
 					white-space: nowrap;
 				}
 
@@ -554,7 +554,7 @@
 						left: 0;
 						width: inherit;
 						height: inherit;
-						font-size: 1rem;
+						font-size: 1.2rem;
 						line-height: inherit;
 						text-align: center;
 						text-indent: 0;
@@ -567,7 +567,7 @@
 			@media screen and (max-width: 480px) {
 
 				ul.icons li a:before {
-					font-size: 1.5rem;
+					font-size: 1rem;
 				}
 
 			}
@@ -617,8 +617,8 @@
 		-ms-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		display: inline-block;
-		height: 2.75em;
-		line-height: 2.75em;
+		height: 3em;
+		line-height: 3em;
 		padding: 0 1.5em;
 		background-color: transparent;
 		border-radius: 4px;
